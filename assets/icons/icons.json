@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "assets/img/maria-anagnostou-psychologos-logo.svg"
+ },
+ "source_md5": "9c5505b263b007f1205a1b48438b7445",
+ "version": "46a544f7",
+ "tile": null,
+ "crop": null,
+ "header": [
+  "inline",
+  "index.html",
+  "d88193f047047c18cc02c5a3a5c50060"
+ ],
+ "made": "2026-10-29"
+}
