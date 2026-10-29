@@ -3,8 +3,8 @@
  "short_name": "Ψυχολόγος Χα",
  "start_url": "./",
  "display": "standalone",
- "background_color": "#FBF7F2",
- "theme_color": "#FBF7F2",
+ "background_color": "#F8F5F1",
+ "theme_color": "#F8F5F1",
  "icons": [
   {
    "src": "assets/icons/icon-192.png",
